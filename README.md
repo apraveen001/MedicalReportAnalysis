@@ -87,7 +87,7 @@ This project aims to bridge the gap between complex medical terminology and pati
 
 1. **Download the Docker image**
 
-   Download the Docker image file (.tar) from [Google Drive](https://drive.google.com/drive/folders/your-folder-id)
+   Download the Docker image file (.tar) from [Google Drive](https://drive.google.com/file/d/1KRV7K49kV0vIlNOBhQBc4kqatJY51dv3/view?usp=sharing)
 
 2. **Load the Docker image**
 
